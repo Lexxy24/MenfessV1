@@ -1,4 +1,4 @@
-# Kina-Bot-Menfess
+# Scbot-Menfess
 
 How to install in termux?
 
